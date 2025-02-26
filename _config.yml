@@ -1,9 +1,9 @@
-title: Xlog2n-Blog
+title: Black15801577901-Blog
 description: "I'm a passionate artist who loves to draw and create. Yes, I code so much that I hardly have time to draw."
 author:
-  name: "Xlog2n"
-  email: "xlog2n@gmail.com"
-  url: "xlog2n.github.io"
+  name: "Black15801577901"
+  email: "blackbeard1251@outlook.com"
+  url: "blackbeard.github.io"
 
 baseurl: /
 
@@ -28,6 +28,6 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "xlog2n"
-year : "2024"
+owner : "Black15801577901"
+year : "2023"
 
